@@ -1,12 +1,12 @@
-# 👩‍💼 IBM HR Dashboard – Tableau Project
+#  IBM HR Dashboard – Tableau Project
 
-## 📊 Objective
+##  Objective
 
 The objective of this project is to design and develop an interactive Tableau dashboard that analyzes IBM HR employee data to uncover critical insights related to attrition, satisfaction, demographics, and departmental trends. The goal is to enable HR professionals to make informed, data-driven decisions to improve employee retention and workforce planning.
 
 ---
 
-## 📁 Dataset Used
+##  Dataset Used
 
 - **Dataset**: IBM HR Analytics Employee Attrition & Performance
 - **Format**: CSV
@@ -14,7 +14,7 @@ The objective of this project is to design and develop an interactive Tableau da
 
 ---
 
-## 📌 Questions (KPIs)
+##  Questions (KPIs)
 
 ### 1. What is the main objective of your IBM HR Tableau project?
 To visualize HR data for discovering attrition trends and optimizing HR policies based on job roles, departments, and employee satisfaction.
@@ -79,7 +79,7 @@ Published to **Tableau Public** and shared internally through **Tableau Server**
 
 ---
 
-## 🔧 Project Process Summary
+##  Project Process Summary
 
 - Imported CSV into Tableau  
 - Cleaned and transformed with Tableau Prep  
@@ -89,7 +89,7 @@ Published to **Tableau Public** and shared internally through **Tableau Server**
 
 ---
 
-## ✅ Final Conclusion
+##  Final Conclusion
 
 The IBM HR Tableau Dashboard transforms employee data into strategic insights for HR professionals. It helps track attrition patterns, assess employee satisfaction, and identify areas for retention improvement — enabling data-backed decisions for a more stable workforce.
 
