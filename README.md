@@ -72,7 +72,7 @@ Published to **Tableau Public** and shared internally through **Tableau Server**
 
 ---
 
-## 📈 Dashboard Screenshot
+##  Dashboard Screenshot
 
 <img width="2374" height="1624" alt="Dashboard 1 (1)" src="https://github.com/user-attachments/assets/5a6fceee-8f50-4fbf-9d40-55cd5586d3ea" />
 
@@ -95,7 +95,3 @@ The IBM HR Tableau Dashboard transforms employee data into strategic insights fo
 
 ---
 
-## 📎 Links
-
-- 🔗 **Dataset**: [Kaggle - IBM HR Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-- 🔗 **Live Tableau Dashboard**: *Coming Soon or Add Your Link Here*
